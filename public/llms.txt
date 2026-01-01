@@ -1,0 +1,65 @@
+# יוסף שלום יזדי — Generative Engine Optimization Map
+
+> A בידור וקומדיה business.
+
+---
+
+## Pages
+
+### דף הבית
+https://-f9551c2f.zappy5.app
+גלו הופעות סטנדאפ בישראל מצחיקות ומקצועיות עם יוסף שלום יזדי קומיקאי. אירועים פרטיים, ערבי דייט וגיבוש צוות.
+
+### הופעות
+https://-f9551c2f.zappy5.app/shows
+צפו בהופעות הסטנדאפ המצחיקות ביותר של יוסף שלום יזדי קומיקאי. הופעות סטנדאפ בישראל לכל סוג אירוע ומקום.
+
+### שירותים
+https://-f9551c2f.zappy5.app/services
+גלו את מגוון שירותי הקומדיה הסטנדאפ של יוסף שלום יזדי - הופעות לאירועים עסקיים, פרטיים, גיבוש צוותים ועוד.
+
+### אודות
+https://-f9551c2f.zappy5.app/about
+הכירו את יוסף שלום יזדי - קומיקאי מנוסה המציע הופעות סטנדאפ בישראל איכותיות ומצחיקות לכל סוג אירוע.
+
+### צור קשר
+https://-f9551c2f.zappy5.app/contact
+צרו קשר עם יוסף שלום יזדי קומיקאי להזמנת הופעות סטנדאפ בישראל. נשמח לעזור לכם לתכנן את האירוע המושלם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-f9551c2f.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-f9551c2f.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-f9551c2f.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About יוסף שלום יזדי
+יוסף שלום יזדי is a business in the בידור וקומדיה industry.
+
+## Target Audience
+- אנשי מקצוע צעירים עירוניים
+- זוגות לערב דייט
+- צוותים לבניית גיבוש
+- סטודנטים חובבי קומדיה
+- מהגרים החיים בישראל
+
+## Industry
+בידור וקומדיה
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-f9551c2f.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-f9551c2f.zappy5.app/robots.txt
